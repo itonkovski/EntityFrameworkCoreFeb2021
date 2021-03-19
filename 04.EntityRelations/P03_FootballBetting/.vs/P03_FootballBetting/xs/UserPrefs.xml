@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{59993B2D-AB8E-4106-AF87-F0C9F7E359CE}|Default">
+  <MonoDevelop.Ide.ItemProperties.P03__FootballBetting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="P03_FootballBetting/Data/FootballBettingContext.cs">
+    <Files>
+      <File FileName="P03_FootballBetting/StartUp.cs" Line="10" Column="12" />
+      <File FileName="P03_FootballBetting/Data/Models/Game.cs" />
+      <File FileName="P03_FootballBetting/Data/Models/Team.cs" />
+      <File FileName="P03_FootballBetting/Data/FootballBettingContext.cs" Line="78" Column="54" />
+      <File FileName="P03_FootballBetting/Data/Models/PlayerStatistic.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="P03_FootballBetting" expanded="True">
+            <Node name="P03_FootballBetting" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="Models" expanded="True" />
+                <Node name="FootballBettingContext.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
