@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{31E92BC3-B827-455F-AD38-0E786854E922}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MusicHub/StartUp.cs">
+    <Files>
+      <File FileName="MusicHub/StartUp.cs" Line="101" Column="1" />
+      <File FileName="MusicHub/Initializer/DbInitializer.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MusicHub PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
