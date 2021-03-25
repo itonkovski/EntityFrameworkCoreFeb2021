@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{CE3AD243-2CF1-487C-B449-4D292CB0A793}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FastFood.Core/Controllers/OrdersController.cs">
+    <Files>
+      <File FileName="FastFood.Core/Controllers/ItemsController.cs" Line="41" Column="58" />
+      <File FileName="FastFood.Core/Controllers/OrdersController.cs" Line="37" Column="31" />
+      <File FileName="FastFood.Core/MappingConfiguration/FastFoodProfile.cs" Line="54" Column="1" />
+      <File FileName="FastFood.Models/Order.cs" Line="20" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FastFood.Web" expanded="True">
+            <Node name="FastFood.Core" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="OrdersController.cs" selected="True" />
+              </Node>
+              <Node name="MappingConfiguration" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="Orders" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Items" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="FastFood.Data" expanded="True" />
+            <Node name="FastFood.Models" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FastFood.Core PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
