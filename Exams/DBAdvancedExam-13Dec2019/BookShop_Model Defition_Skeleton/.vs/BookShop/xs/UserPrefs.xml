@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{48DA9A16-0B45-4C96-9C1C-AE6433667B1F}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookShop" expanded="True">
+            <Node name="BookShop" expanded="True">
+              <Node name="Datasets" expanded="True" />
+              <Node name="ExportResults" expanded="True" />
+              <Node name="ImportResults" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BookShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
