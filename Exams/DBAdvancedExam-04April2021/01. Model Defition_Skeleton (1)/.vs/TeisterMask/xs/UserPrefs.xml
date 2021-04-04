@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{48DA9A16-0B45-4C96-9C1C-AE6433667B1F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TeisterMask/Data/TeisterMaskContext.cs">
+    <Files>
+      <File FileName="TeisterMask/DataProcessor/Serializer.cs" Line="64" Column="56" />
+      <File FileName="TeisterMask/StartUp.cs" Line="31" Column="10" />
+      <File FileName="TeisterMask/ExportResults/Actual Result - ExportMostBusiestEmployees.json" Line="17" Column="38" />
+      <File FileName="TeisterMask/ExportResults/Expected Result - ExportMostBusiestEmployees.json" Line="9" Column="33" />
+      <File FileName="TeisterMask/Data/Models/Employee.cs" Line="1" Column="1" />
+      <File FileName="TeisterMask/Data/TeisterMaskContext.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TeisterMask" expanded="True">
+            <Node name="TeisterMask" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="Models" expanded="True" />
+                <Node name="TeisterMaskContext.cs" selected="True" />
+              </Node>
+              <Node name="DataProcessor" expanded="True">
+                <Node name="ExportDto" expanded="True" />
+                <Node name="ImportDto" expanded="True" />
+              </Node>
+              <Node name="ExportResults" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TeisterMask PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
